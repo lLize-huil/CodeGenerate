@@ -1,0 +1,10 @@
+10:40:24.038 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.21.Final
+10:40:24.207 [main] INFO  c.r.WebApplication - [logStarting,55] - Starting WebApplication v4.6.0 on AlphaGo with PID 16744 (D:\我的资料库\Documents\Downloads\代码生成工具v4.6.0\tools started by Administrator in D:\我的资料库\Documents\Downloads\代码生成工具v4.6.0)
+10:40:24.208 [main] INFO  c.r.WebApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+10:40:27.840 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-5064"]
+10:40:27.841 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:40:27.842 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+10:40:28.024 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:40:32.787 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-5064"]
+10:40:32.941 [main] INFO  c.r.WebApplication - [logStarted,61] - Started WebApplication in 9.822 seconds (JVM running for 10.863)
+10:40:33.658 [http-nio-5064-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
